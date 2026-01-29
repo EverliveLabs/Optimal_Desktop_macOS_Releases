@@ -1,14 +1,14 @@
 {
-    "version": "1.2.0",
+    "version": "1.1.0",
     "notes": "the first version",
     "pub_date": "2024-05-27T12:00:00Z",
     "platforms": {
         "darwin-aarch64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0s2OWZtOGpEcGg0SU1maXBENjgxL2hLQTZYeWovODVMWkdtbm5KeG1RVDBxVGZrSWJGSDlITU04TGN1LzcwUlNDa0FKaWtRcElLUnc1NmphVk5OSFU1TkhFUW5vRGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjY5Njc3CWZpbGU6T3B0aW1hbCBEZXNrdG9wLmFwcC50YXIuZ3oKSGNhZ3E3bVQzSGtYOU5tU1lGZy9nZnVINm5IYXp0bjlPVitEVDUxanBxTWROTXFIZEplNHM4MkFFL3EyRmlwSWdnK3dnK2lwMHgyU3hKSEJLY3BXREE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0s2OWZtOGpEcGtJdURSNTdkL21aYkU3U2RVUjBZYVQxelRML0R6VEZsZko4N2R5QlZra0pDcDhrSWRieFFjN3gvdU10RXFOcUtwZkhubHVrbzBZT21EUitJTnRaeFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Njc3ODc2CWZpbGU6T3B0aW1hbCBEZXNrdG9wLmFwcC50YXIuZ3oKWTd2YlZtSTE0VUdja1BONWFMZlltMi9FdVVOMEc0cUNMcnhndHBnQjhWcW9UcjByVTJPUWdQenhBbFBNcnRybDhmWHBMYUtGWFB4NWVNYitGdFp2Qmc9PQo=",
             "url": "https://github.com/EverliveLabs/Optimal_Desktop_macOS_Releases/releases/download/v1.1.0/Optimal.Desktop.app.tar.gz"
         },
         "darwin-x86_64": {
-            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0s2OWZtOGpEcGg0SU1maXBENjgxL2hLQTZYeWovODVMWkdtbm5KeG1RVDBxVGZrSWJGSDlITU04TGN1LzcwUlNDa0FKaWtRcElLUnc1NmphVk5OSFU1TkhFUW5vRGdBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5NjY5Njc3CWZpbGU6T3B0aW1hbCBEZXNrdG9wLmFwcC50YXIuZ3oKSGNhZ3E3bVQzSGtYOU5tU1lGZy9nZnVINm5IYXp0bjlPVitEVDUxanBxTWROTXFIZEplNHM4MkFFL3EyRmlwSWdnK3dnK2lwMHgyU3hKSEJLY3BXREE9PQo=",
+            "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSZ0s2OWZtOGpEcGtJdURSNTdkL21aYkU3U2RVUjBZYVQxelRML0R6VEZsZko4N2R5QlZra0pDcDhrSWRieFFjN3gvdU10RXFOcUtwZkhubHVrbzBZT21EUitJTnRaeFFZPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzY5Njc3ODc2CWZpbGU6T3B0aW1hbCBEZXNrdG9wLmFwcC50YXIuZ3oKWTd2YlZtSTE0VUdja1BONWFMZlltMi9FdVVOMEc0cUNMcnhndHBnQjhWcW9UcjByVTJPUWdQenhBbFBNcnRybDhmWHBMYUtGWFB4NWVNYitGdFp2Qmc9PQo=",
             "url": "https://github.com/EverliveLabs/Optimal_Desktop_macOS_Releases/releases/download/v1.1.0/Optimal.Desktop.app.tar.gz"
         }
     }
